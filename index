@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DRAWLY Privacy Policy</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 20px auto; padding: 0 15px; }
+        h1, h2 { color: #333; }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy for DRAWLY</h1>
+
+    <p><strong>Last Updated:</strong> September 28, 2025</p>
+
+    <pre style="white-space: pre-wrap; font-family: sans-serif;">
+[  **Privacy Policy**
+
+**Last Updated:** September 28, 2025
+
+At DRAWLY ("we," "us," or "our"), we value your privacy. This Privacy Policy explains what information we access, how we use it, and how we protect it when you use the DRAWLY mobile application (the "Application").
+
+By downloading and using our Application, you agree to the practices described in this Privacy Policy.
+
+**1. Permissions and Data We Use**
+
+For our Application to function correctly, we request permission to access certain features on your device.
+
+**a) Camera Access:**
+The core feature of our Application allows you to project a digital image onto a real piece of paper by using your device's camera to view your surroundings or a surface. This enables you to trace and draw by looking at your screen.
+* **Important:** No images or videos viewed through your camera are **recorded, stored, or transmitted to our servers.** The camera feed is **processed in real-time locally on your device** solely to enable the drawing feature. This data disappears the moment the feature is closed.
+
+**b) Gallery (Photos/Media) Access:**
+The Application allows you to select a photo from your device's gallery to project it onto paper for tracing.
+* **Important:** We only access the **specific photo you choose** to use. The Application does not access or scan other files in your gallery. The selected photo is **processed locally on your device** for the tracing feature and is never uploaded to or stored on our servers.
+
+**c) Information Collected Automatically (Non-Personal Data):**
+To improve the Application and make it more stable, we may collect some anonymous data automatically:
+* **Usage Data:** Anonymous statistical information, such as which features within the Application are used and how often.
+* **Crash Reports:** In the event the Application crashes, anonymous technical error reports are generated to help us identify and fix the problem. These reports do not contain any personal information like your name or email.
+
+**2. How We Use Your Information**
+
+We use the permissions and data we access only for the following purposes:
+* To provide and maintain the core functionalities of the Application (drawing via camera and gallery projection).
+* To analyze the Application's performance and improve the user experience.
+* To diagnose and fix technical problems and bugs.
+
+**3. Information Sharing and Disclosure**
+
+Our Application does not contain advertisements. We do not sell, rent, or share any of your personally identifiable information with third parties. Anonymized crash reports or usage statistics may be shared with service providers (such as Google Firebase) to monitor the Application's performance.
+
+**4. Children's Privacy**
+
+Our Application is designed for a general audience and is intended for users of all ages. Protecting the privacy of children is especially important to us. Our Application does not knowingly collect any personally identifiable information (such as name, address, email, etc.) from children. As the data from the camera and gallery is processed only locally on the device and is not stored, this provides an additional layer of protection for children's privacy.
+
+If you are a parent or guardian and you believe that your child has provided us with any information, please contact us at `heisenbergdev73@gmail.com`. We will take immediate steps to remove such information from our systems if any were to be found.
+
+**5. Changes to This Privacy Policy**
+
+We may update this Privacy Policy from time to time. All changes will be posted on this page. You are advised to review this Policy periodically for any changes.
+
+**6. Contact Us**
+
+If you have any questions or concerns about this Privacy Policy, please do not hesitate to contact us at the following email address:
+**heisenbergdev73@gmail.com** ]
+    </pre>
+
+</body>
+</html>
